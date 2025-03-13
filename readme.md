@@ -15,6 +15,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [Official](#official)
     - [Third-party](#third-party)
 - [Plugins](#plugins)
+    - [Personalisation](#personalisation)
     - [Learning](#learning)
     - [Editor](#editor)
     - [Utilities](#utilities)
@@ -45,6 +46,10 @@ IDEs that are based on [IntelliJ Platform](https://www.jetbrains.com/opensource/
 - [Cursive](https://cursive-ide.com) - The Clojure(Script) IDE.
 
 ## Plugins
+
+### Personalisation
+
+- [Extra Icons](https://plugins.jetbrains.com/plugin/11058-extra-icons) - Add large amount of new icons to tour IDE.
 
 ### Learning
 
