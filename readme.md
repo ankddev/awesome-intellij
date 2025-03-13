@@ -7,7 +7,7 @@
 </div>
 <br>
 
-[IntelliJ IDEA](https://www.jetbrains.com/idea) is a IDE for Java and Kotlin developers and platform for many other IDEs, official (e.g. [RustRover](https://www.jetbrains.com/rust) or [GoLand](https://www.jetbrains.com/go)) and 3rd-party (e.g. [Android Studio](https://developer.android.com/studio)).
+[IntelliJ IDEA](https://www.jetbrains.com/idea) is a IDE for Java and Kotlin developers and platform for many other IDEs, official (e.g. RustRover or GoLand) and 3rd-party (e.g. Android Studio).
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
