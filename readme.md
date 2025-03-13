@@ -28,6 +28,8 @@ IDEs that are based on [IntelliJ Platform](https://www.jetbrains.com/opensource/
 
 ### Official
 
+Official IDEs by JetBrains.
+
 - [IntelliJ IDEA](https://www.jetbrains.com/idea) - IDE for Java and Kotlin developers.
 - [PyCharm](https://www.jetbrains.com/pycharm) - IDE for Python developers and data scientists.
 - [PhpStorm](https://www.jetbrains.com/phpstorm) - IDE for PHP developers.
@@ -41,6 +43,8 @@ IDEs that are based on [IntelliJ Platform](https://www.jetbrains.com/opensource/
 - [Aqua](https://www.jetbrains.com/aqua) - IDE for test automation engineers.
 
 ### Third-party
+
+IDEs by 3rd-party developers.
 
 - [Android Studio](https://developer.android.com/studio) - IDE for Android app development by Google.
 - [Comma IDE](https://commaide.com) - The IDE for Raku.
