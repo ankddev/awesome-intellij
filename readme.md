@@ -15,6 +15,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [Official](#official)
     - [Third-party](#third-party)
 - [Plugins](#plugins)
+    - [Learning](#learning)
     - [Editor](#editor)
     - [Utilities](#utilities)
 
@@ -44,6 +45,10 @@ IDEs that are based on [IntelliJ Platform](https://www.jetbrains.com/opensource/
 - [Cursive](https://cursive-ide.com) - The Clojure(Script) IDE.
 
 ## Plugins
+
+### Learning
+
+- [JetBrains Academy](https://plugins.jetbrains.com/plugin/10081-jetbrains-academy) - Turn on the free educational features in your IDE.
 
 ### Editor
 
