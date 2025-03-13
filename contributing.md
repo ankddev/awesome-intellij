@@ -8,9 +8,18 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Suggest **only awesome** items
-- Add your item to the end of appropiate section
-- Use existing format
+- Suggest **only awesome** items.
+- Add your item to the end of appropiate section.
+- Use existing format.
+- Don't open a Draft / WIP pull request while you work on the guidelines. A pull request should be 100% ready and should adhere to all the guidelines when you open it.
+- If you submit a project that is similar to an existing project in the list, argue how it's better.
+- Make an individual pull request for each suggestion.
+- Keep descriptions short and simple, but descriptive.
+- Descriptions should not be title-case.
+- Start the description with a capital and end with a full stop/period.
+- Check your spelling and grammar.
+- The pull request should have a useful title and include a link to the project and why it should be included.
+- New categories or improvements to the existing categorization are welcome, but should be done in a separate pull request.
 
 Thank you for your suggestions!
 
