@@ -65,6 +65,9 @@ IDEs by 3rd-party developers.
 - [Flutter](https://plugins.jetbrains.com/plugin/9212-flutter) - Support for developing Flutter applications.
 - [Go](https://plugins.jetbrains.com/plugin/9568-go) - Support of Go language.
 - [Go Template](https://plugins.jetbrains.com/plugin/10581-go-template) - Support for Go template engine.
+- [TinyGo](https://plugins.jetbrains.com/plugin/16915-tinygo) - Support for TinyGo compiler.
+- [Makefile Language](https://plugins.jetbrains.com/plugin/9333-makefile-language) - Support of GNU Make.
+- [.env files](https://plugins.jetbrains.com/plugin/9525--env-files) - Support of .env (dotenv) files.
 
 ### Personalisation
 
@@ -82,3 +85,4 @@ IDEs by 3rd-party developers.
 
 - [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x) - Learn essential shortcuts while you are working.
 - [Randomness](https://plugins.jetbrains.com/plugin/9836-randomness) - Insert random numbers, UUIDs, names, IP addresses, and much more.
+- [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation) - Manipulate with strings.
