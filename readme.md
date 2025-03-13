@@ -15,7 +15,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [Official](#official)
     - [Third-party](#third-party)
 - [Plugins](#plugins)
-    - [Language support](#language-support)
+    - [Language and framework support](#language-and-framework-support)
     - [Personalisation](#personalisation)
     - [Learning](#learning)
     - [Editor](#editor)
@@ -52,7 +52,7 @@ IDEs by 3rd-party developers.
 
 ## Plugins
 
-### Language support
+### Language and framework support
 
 - [Scala](https://plugins.jetbrains.com/plugin/1347-scala) - Support of Scala language.
 - [Dart](https://plugins.jetbrains.com/plugin/6351-dart) - Support of Dart language.
@@ -61,6 +61,8 @@ IDEs by 3rd-party developers.
 - [Toml](https://plugins.jetbrains.com/plugin/8195-toml) - Support of TOML language.
 - [Rust](https://plugins.jetbrains.com/plugin/22407-rust) - Support for Rust language.
 - [Ideolog](https://plugins.jetbrains.com/plugin/9746-ideolog) - Support of editing .log files.
+- [Node.js](https://plugins.jetbrains.com/plugin/6098-node-js) - Support of Node.js for all IDEs that support JS.
+- [Flutter](https://plugins.jetbrains.com/plugin/9212-flutter) - Support for developing Flutter applications.
 
 ### Personalisation
 
