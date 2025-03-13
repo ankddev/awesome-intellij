@@ -52,3 +52,4 @@ IDEs that are based on [IntelliJ Platform](https://www.jetbrains.com/opensource/
 ### Utilities
 
 - [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x) - Learn essential shortcuts while you are working.
+- [Randomness](https://plugins.jetbrains.com/plugin/9836-randomness) - Insert random numbers, UUIDs, names, IP addresses, and much more.
