@@ -15,6 +15,9 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [Official](#official)
     - [Third-party](#third-party)
 - [Plugins](#plugins)
+    - [Language support](#language-support)
+        - [Scala](#scala)
+        - [Dart](#dart)
     - [Personalisation](#personalisation)
     - [Learning](#learning)
     - [Editor](#editor)
@@ -46,6 +49,16 @@ IDEs that are based on [IntelliJ Platform](https://www.jetbrains.com/opensource/
 - [Cursive](https://cursive-ide.com) - The Clojure(Script) IDE.
 
 ## Plugins
+
+### Language support
+
+#### Scala
+
+- [Scala](https://plugins.jetbrains.com/plugin/1347-scala) - Support of Scala language.
+
+#### Dart
+
+- [Dart](https://plugins.jetbrains.com/plugin/6351-dart) - Support of Dart language
 
 ### Personalisation
 
