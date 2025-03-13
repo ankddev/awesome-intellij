@@ -1,8 +1,6 @@
-# Awesome IntelliJ
+# Awesome IntelliJ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <div align="center">
     <img src="./banner.png">
-    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" /></a>
-    <br>
     <i>A curated list of IntelliJ-based IDEs, plugins and resources for them.</i>
 </div>
 <br>
