@@ -63,6 +63,8 @@ IDEs by 3rd-party developers.
 - [Ideolog](https://plugins.jetbrains.com/plugin/9746-ideolog) - Support of editing .log files.
 - [Node.js](https://plugins.jetbrains.com/plugin/6098-node-js) - Support of Node.js for all IDEs that support JS.
 - [Flutter](https://plugins.jetbrains.com/plugin/9212-flutter) - Support for developing Flutter applications.
+- [Go](https://plugins.jetbrains.com/plugin/9568-go) - Support of Go language.
+- [Go Template](https://plugins.jetbrains.com/plugin/10581-go-template) - Support for Go template engine.
 
 ### Personalisation
 
