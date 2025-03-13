@@ -1,4 +1,5 @@
 <div align="center">
+    <h1>Awesome IntelliJ</h1>
     <img src="./banner.png">
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" /></a>
     <br>
