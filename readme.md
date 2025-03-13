@@ -14,6 +14,9 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [IntelliJ-based IDEs](#intellij-based-ides)
     - [Official](#official)
     - [Third-party](#third-party)
+- [Plugins](#plugins)
+    - [Editor](#editor)
+    - [Utilities](#utilities)
 
 
 ## IntelliJ-based IDEs
@@ -39,3 +42,13 @@ IDEs that are based on [IntelliJ Platform](https://www.jetbrains.com/opensource/
 - [Android Studio](https://developer.android.com/studio) - IDE for Android app development by Google.
 - [Comma IDE](https://commaide.com) - The IDE for Raku.
 - [Cursive](https://cursive-ide.com) - The Clojure(Script) IDE.
+
+## Plugins
+
+### Editor
+
+- [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets) - Ranbowify brackets and indents.
+
+### Utilities
+
+- [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x) - Learn essential shortcuts while you are working.
