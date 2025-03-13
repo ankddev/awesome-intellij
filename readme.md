@@ -16,12 +16,6 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [Third-party](#third-party)
 - [Plugins](#plugins)
     - [Language support](#language-support)
-        - [Scala](#scala)
-        - [Dart](#dart)
-        - [Bash](#bash)
-        - [Ini](#ini)
-        - [Rust](#rust)
-        - [Log](#log)
     - [Personalisation](#personalisation)
     - [Learning](#learning)
     - [Editor](#editor)
@@ -56,30 +50,13 @@ IDEs that are based on [IntelliJ Platform](https://www.jetbrains.com/opensource/
 
 ### Language support
 
-#### Scala
-
 - [Scala](https://plugins.jetbrains.com/plugin/1347-scala) - Support of Scala language.
-
-#### Dart
-
 - [Dart](https://plugins.jetbrains.com/plugin/6351-dart) - Support of Dart language.
-
-#### Bash
-
 - [BashSupport Pro](https://plugins.jetbrains.com/plugin/13841-bashsupport-pro) - Bash, POSIX and Zsh support.
-
-#### Ini
-
 - [Ini](https://plugins.jetbrains.com/plugin/6981-ini) - Support of .ini files.
-
-#### Rust
-
 - [Toml](https://plugins.jetbrains.com/plugin/8195-toml) - Support of TOML language.
 - [Rust](https://plugins.jetbrains.com/plugin/22407-rust) - Support for Rust language.
-
-#### Log
-
-- [Ideolog](https://plugins.jetbrains.com/plugin/9746-ideolog) - Support of editing .log files
+- [Ideolog](https://plugins.jetbrains.com/plugin/9746-ideolog) - Support of editing .log files.
 
 ### Personalisation
 
