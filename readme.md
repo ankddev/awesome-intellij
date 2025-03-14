@@ -116,7 +116,7 @@ Translate IDE to your language.
 ### Documentation
 
 - [Getting Started with IDEA](https://www.jetbrains.com/help/idea/getting-started.html) - Official documentation by JetBrains.
-- [IdeaVim landing page](https://lp.jetbrains.com/ideavim) - Landing page of IdeaVim
+- [IdeaVim landing page](https://lp.jetbrains.com/ideavim) - Landing page of IdeaVim.
 
 ### Guides
 
