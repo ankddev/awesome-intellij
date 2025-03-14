@@ -81,7 +81,7 @@ IDEs by 3rd-party developers.
 - [Diff / Patch File Support](https://plugins.jetbrains.com/plugin/18612-diff--patch-file-support) - Syntax highlighting for .diff files and .patch files.
 - [Big Data Tools](https://plugins.jetbrains.com/plugin/12494-big-data-tools) - Bundle of plugins for data engineers and other specialists engaged with big data workloads.
 - [PlatformIO for CLion](https://plugins.jetbrains.com/plugin/13922-platformio-for-clion) - Support for PlatformIO projects.
-- [Lombok](https://plugins.jetbrains.com/plugin/6317-lombok)- Plugin that adds first-class support for Project Lombok.
+- [Lombok](https://plugins.jetbrains.com/plugin/6317-lombok) - Plugin that adds first-class support for Project Lombok.
 - [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore) - Support for various .*ignore files.
 
 ### Personalisation
