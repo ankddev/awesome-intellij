@@ -21,6 +21,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [Editor](#editor)
     - [Utilities](#utilities)
     - [Language packs](#language-packs)
+    - [AI](#ai)
 - [Resources](#resources)
     - [Documentation](#documentation)
     - [Guides](#guides)
@@ -112,6 +113,18 @@ Translate IDE to your language.
 - [Spanish Language Pack](https://plugins.jetbrains.com/plugin/24541-spanish-language-pack--paquete-de-idioma-espa-ol) - Translate your IDE to Spanish.
 - [Deutsch ​(German)​ Language Pack](https://plugins.jetbrains.com/plugin/24543-deutsch-german-language-pack--deutsches-sprachpaket) - Translate your IDE to German.
 - [Portuguese Language Pack](https://plugins.jetbrains.com/plugin/24542-portuguese-language-pack--pacote-de-idioma-portugu-s) - Translate your IDE to Portuguese.
+
+### AI
+
+Improve your coding experience with these AI-powered plugins.
+
+- [Codeium](https://plugins.jetbrains.com/plugin/20540-codeium-ai-autocomplete-and-chat-for-python-js-java-go--) - Modern coding superpower, a free code acceleration toolkit built on cutting edge AI technology.
+- [Tabnine](https://plugins.jetbrains.com/plugin/12798-tabnine-ai-chat--autocomplete-for-javascript-python--more) - AI code assistant that you control.
+- [Zencoder](https://plugins.jetbrains.com/plugin/24782-zencoder-your-mindful-ai-coding-agent) - AI platform that utilizes embedded AI agents for code generation, unit testing, and doc comment creation.
+- [AICommit](https://plugins.jetbrains.com/plugin/21289-aicommit) - AI-powered programming assistant for JetBrains IDEs.
+- [AI Commits](https://plugins.jetbrains.com/plugin/21335-ai-commits) - Plugin that generates your commit messages by using git diff and LLMs.
+- [JetBrains AI Assistant](https://plugins.jetbrains.com/plugin/22282-jetbrains-ai-assistant) - Accelerate your whole development cycle with AI-driven features integrated into your favorite IDE.
+- [GitHub Copilot](https://plugins.jetbrains.com/plugin/17718-github-copilot) - Your AI-powered coding assistant, offering assistance throughout your software development journey.
 
 ## Resources
 
