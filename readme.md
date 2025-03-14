@@ -71,7 +71,7 @@ IDEs by 3rd-party developers.
 - [.env files](https://plugins.jetbrains.com/plugin/9525--env-files) - Support of .env (dotenv) files.
 - [ESLint](https://plugins.jetbrains.com/plugin/7494-eslint) - ESLint integration.
 - [JS Toolbox](https://plugins.jetbrains.com/plugin/7353-js-toolbox) - Several tools for JavaScript development.
-- [React Native Console](https://plugins.jetbrains.com/plugin/9564-react-native-console) - Fully customizable plugin to run React Native commands
+- [React Native Console](https://plugins.jetbrains.com/plugin/9564-react-native-console) - Fully customizable plugin to run React Native commands.
 
 ### Personalisation
 
