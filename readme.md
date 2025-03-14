@@ -68,6 +68,7 @@ IDEs by 3rd-party developers.
 - [TinyGo](https://plugins.jetbrains.com/plugin/16915-tinygo) - Support for TinyGo compiler.
 - [Makefile Language](https://plugins.jetbrains.com/plugin/9333-makefile-language) - Support of GNU Make.
 - [.env files](https://plugins.jetbrains.com/plugin/9525--env-files) - Support of .env (dotenv) files.
+- [ESLint](https://plugins.jetbrains.com/plugin/7494-eslint) - ESLint integration.
 
 ### Personalisation
 
