@@ -20,6 +20,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [Learning](#learning)
     - [Editor](#editor)
     - [Utilities](#utilities)
+    - [Language Packs](#language-packs)
 
 
 ## IntelliJ-based IDEs
@@ -89,3 +90,15 @@ IDEs by 3rd-party developers.
 - [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x) - Learn essential shortcuts while you are working.
 - [Randomness](https://plugins.jetbrains.com/plugin/9836-randomness) - Insert random numbers, UUIDs, names, IP addresses, and much more.
 - [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation) - Manipulate with strings.
+
+### Language packs
+
+Translate IDE to your language.
+
+- [Chinese ​(Simplified)​ Language Pack](https://plugins.jetbrains.com/plugin/13710-chinese-simplified-language-pack----) - Translate your IDE to Chinese (simplified).
+- [Japanese Language Pack](https://plugins.jetbrains.com/plugin/13964-japanese-language-pack------) - Translate your IDE to Japanse.
+- [Korean Language Pack](https://plugins.jetbrains.com/plugin/13711-korean-language-pack------) - Translate your IDE to Korean.
+- [Russian Language Pack](https://plugins.jetbrains.com/plugin/26495-russian-language-pack--------) - Translate your IDE to Russian.
+- [Spanish Language Pack](https://plugins.jetbrains.com/plugin/24541-spanish-language-pack--paquete-de-idioma-espa-ol) - Translate your IDE to Spanish.
+- [Deutsch ​(German)​ Language Pack](https://plugins.jetbrains.com/plugin/24543-deutsch-german-language-pack--deutsches-sprachpaket) - Translate your IDE to German.
+- [Portuguese Language Pack](https://plugins.jetbrains.com/plugin/24542-portuguese-language-pack--pacote-de-idioma-portugu-s) - Translate your IDE to Portuguese.   
