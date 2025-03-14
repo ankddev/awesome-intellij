@@ -126,3 +126,4 @@ Easily migrate to IntelliJ-based IDEs from another IDE or editor.
 - [Migrating from VS Code to PyCharm](https://www.jetbrains.com/help/pycharm/migrating-from-vsc-to-pycharm.html) - Offical guide about how to migrate from VS Code to PyCharm.
 - [Migrating from VS Code to RustRover](https://www.jetbrains.com/help/rust/how-to-move-to-rustrover-from-vs-code.html) - Offical guide about how to migrate from VS Code to RustRover.
 - [Migrating from IntelliJ-based IDE to RustRover](https://www.jetbrains.com/help/rust/how-to-move-to-rustrover-from-another-jetbrains-ide.html) - Offical guide about how to migrate from another IntelliJ-based IDE to RustRover.
+- [Migrating from VS Code to GoLand](https://www.jetbrains.com/help/go/migrating-from-visual-studio-code-to-goland.html) - Offical guide about how to migrate from VS Code to GoLand.
