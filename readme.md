@@ -23,6 +23,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [Language packs](#language-packs)
 - [Resources](#resources)
     - [Documentation](#documentation)
+    - [Guides](#guides)
 
 
 ## IntelliJ-based IDEs
@@ -111,3 +112,17 @@ Translate IDE to your language.
 ### Documentation
 
 - [Getting Started](https://www.jetbrains.com/help/idea/getting-started.html) - Official documentation by JetBrains
+
+### Guides
+
+#### Migrating
+
+Easily migrate to IntelliJ-based IDEs from another IDE or editor.
+
+- [Migrating from VS Code to IDEA](https://www.jetbrains.com/help/idea/how-to-move-to-intellij-idea-from-vs-code.html) - Offical guide about how to migrate from VS Code to IntelliJ IDEA.
+- [Migrating from Eclipse to IDEA](https://www.jetbrains.com/help/idea/migrating-from-eclipse-to-intellij-idea.html) - Offical guide about how to migrate from Eclipse to IntelliJ IDEA.
+- [Migrating from NetBeans to IDEA](https://www.jetbrains.com/help/idea/netbeans.html) - Offical guide about how to migrate from NetBeans to IntelliJ IDEA.
+- [Migrating from text editors to PyCharm](https://www.jetbrains.com/help/pycharm/migrating-from-text-editors.html) - Offical guide about how to migrate from text editors to PyCharm.
+- [Migrating from VS Code to PyCharm](https://www.jetbrains.com/help/pycharm/migrating-from-vsc-to-pycharm.html) - Offical guide about how to migrate from VS Code to PyCharm.
+- [Migrating from VS Code to RustRover](https://www.jetbrains.com/help/rust/how-to-move-to-rustrover-from-vs-code.html) - Offical guide about how to migrate from VS Code to RustRover.
+- [Migrating from IntelliJ-based IDE to RustRover](https://www.jetbrains.com/help/rust/how-to-move-to-rustrover-from-another-jetbrains-ide.html) - Offical guide about how to migrate from another IntelliJ-based IDE to RustRover.
