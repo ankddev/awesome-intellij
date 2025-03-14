@@ -79,6 +79,9 @@ IDEs by 3rd-party developers.
 - [React Native Console](https://plugins.jetbrains.com/plugin/9564-react-native-console) - Fully customizable plugin to run React Native commands.
 - [Writerside](https://plugins.jetbrains.com/plugin/20158-writerside) - Author, preview, build, test, and publish your technical documentation right inside your favorite IDE.
 - [Diff / Patch File Support](https://plugins.jetbrains.com/plugin/18612-diff--patch-file-support) - Syntax highlighting for .diff files and .patch files.
+- [Big Data Tools](https://plugins.jetbrains.com/plugin/12494-big-data-tools) - Bundle of plugins for data engineers and other specialists engaged with big data workloads.
+- [PlatformIO for CLion](https://plugins.jetbrains.com/plugin/13922-platformio-for-clion) - Support for PlatformIO projects.
+- [Lombok](https://plugins.jetbrains.com/plugin/6317-lombok)- Plugin that adds first-class support for Project Lombok.
 
 ### Personalisation
 
@@ -101,6 +104,7 @@ IDEs by 3rd-party developers.
 - [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x) - Learn essential shortcuts while you are working.
 - [Randomness](https://plugins.jetbrains.com/plugin/9836-randomness) - Insert random numbers, UUIDs, names, IP addresses, and much more.
 - [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation) - Manipulate with strings.
+- [GBrowser](https://plugins.jetbrains.com/plugin/14458-gbrowser) - Embedded web browser window within your IDE.
 
 ### Tools integration
 
@@ -108,6 +112,13 @@ Integreations with various developer tools in your IDE.
 
 - [Docker](https://plugins.jetbrains.com/plugin/7724-docker) - Docker integration for your IDE.
 - [GitHub Actions Manager](https://plugins.jetbrains.com/plugin/19347-github-actions-manager) - Plugin that provides tool window where you can view GitHub Actions workflow-runs of the repository.
+- [GitHub](https://plugins.jetbrains.com/plugin/13115-github) - GitHub integration for your IDE.
+- [GitLab](https://plugins.jetbrains.com/plugin/22857-gitlab) - GitLab integration for your IDE.
+- [TeamCity](https://plugins.jetbrains.com/plugin/1820-teamcity) - JetBrains TeamCity integration for your IDE.
+- [Space](https://plugins.jetbrains.com/plugin/13362-space) - JetBrains Space integration for your IDE.
+- [Bitbucket Linky](https://plugins.jetbrains.com/plugin/8015-bitbucket-linky) - Provides easy navigation and interaction with Atlassian Bitbucket.
+- [Bitbucket Integration Pro](https://plugins.jetbrains.com/plugin/13538-bitbucket-integration-pro) - The plugin provides seamless integration with Atlassian Bitbucket.
+- [ADB WIFI](https://plugins.jetbrains.com/plugin/7856-adb-wifi) - ADBWIFI Android Studio plugin for debug Android app over Wi-Fi.
 
 ### Language packs
 
