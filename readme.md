@@ -101,4 +101,4 @@ Translate IDE to your language.
 - [Russian Language Pack](https://plugins.jetbrains.com/plugin/26495-russian-language-pack--------) - Translate your IDE to Russian.
 - [Spanish Language Pack](https://plugins.jetbrains.com/plugin/24541-spanish-language-pack--paquete-de-idioma-espa-ol) - Translate your IDE to Spanish.
 - [Deutsch ​(German)​ Language Pack](https://plugins.jetbrains.com/plugin/24543-deutsch-german-language-pack--deutsches-sprachpaket) - Translate your IDE to German.
-- [Portuguese Language Pack](https://plugins.jetbrains.com/plugin/24542-portuguese-language-pack--pacote-de-idioma-portugu-s) - Translate your IDE to Portuguese.   
+- [Portuguese Language Pack](https://plugins.jetbrains.com/plugin/24542-portuguese-language-pack--pacote-de-idioma-portugu-s) - Translate your IDE to Portuguese.
