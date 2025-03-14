@@ -99,6 +99,7 @@ IDEs by 3rd-party developers.
 - [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x) - Learn essential shortcuts while you are working.
 - [Randomness](https://plugins.jetbrains.com/plugin/9836-randomness) - Insert random numbers, UUIDs, names, IP addresses, and much more.
 - [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation) - Manipulate with strings.
+- [GitHub Actions Manager](https://plugins.jetbrains.com/plugin/19347-github-actions-manager) - Plugin that creates tool window where you can view GitHub Actions workflow-runs of the repository.
 
 ### Language packs
 
