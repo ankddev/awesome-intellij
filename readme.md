@@ -72,6 +72,7 @@ IDEs by 3rd-party developers.
 - [ESLint](https://plugins.jetbrains.com/plugin/7494-eslint) - ESLint integration.
 - [JS Toolbox](https://plugins.jetbrains.com/plugin/7353-js-toolbox) - Several tools for JavaScript development.
 - [React Native Console](https://plugins.jetbrains.com/plugin/9564-react-native-console) - Fully customizable plugin to run React Native commands.
+- [Writerside](https://plugins.jetbrains.com/plugin/20158-writerside) - Author, preview, build, test, and publish your technical documentation right inside your favorite IDE.
 
 ### Personalisation
 
