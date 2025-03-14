@@ -20,7 +20,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [Learning](#learning)
     - [Editor](#editor)
     - [Utilities](#utilities)
-    - [Language Packs](#language-packs)
+    - [Language packs](#language-packs)
 
 
 ## IntelliJ-based IDEs
