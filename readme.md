@@ -88,6 +88,10 @@ IDEs by 3rd-party developers.
 ### Editor
 
 - [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets) - Ranbowify brackets and indents.
+- [IdeaVim](https://plugins.jetbrains.com/plugin/164-ideavim) - Vim engine support.
+- [Which-Key](https://plugins.jetbrains.com/plugin/15976-which-key) - IdeaVim extension that displays available keybindings in a popup.
+- [IdeaVim-Sneak](https://plugins.jetbrains.com/plugin/15348-ideavim-sneak) - Port of vim-sneak to IdeaVim.
+- [IdeaVim-EasyMotion](https://plugins.jetbrains.com/plugin/13360-ideavim-easymotion) - EasyMotion plugin emulation for IdeaVim.
 
 ### Utilities
 
@@ -112,6 +116,7 @@ Translate IDE to your language.
 ### Documentation
 
 - [Getting Started with IDEA](https://www.jetbrains.com/help/idea/getting-started.html) - Official documentation by JetBrains.
+- [IdeaVim landing page](https://lp.jetbrains.com/ideavim) - Landing page of IdeaVim
 
 ### Guides
 
