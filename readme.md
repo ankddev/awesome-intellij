@@ -21,6 +21,8 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [Editor](#editor)
     - [Utilities](#utilities)
     - [Language packs](#language-packs)
+- [Resources](#resources)
+    - [Documentation](#documentation)
 
 
 ## IntelliJ-based IDEs
@@ -103,3 +105,9 @@ Translate IDE to your language.
 - [Spanish Language Pack](https://plugins.jetbrains.com/plugin/24541-spanish-language-pack--paquete-de-idioma-espa-ol) - Translate your IDE to Spanish.
 - [Deutsch ​(German)​ Language Pack](https://plugins.jetbrains.com/plugin/24543-deutsch-german-language-pack--deutsches-sprachpaket) - Translate your IDE to German.
 - [Portuguese Language Pack](https://plugins.jetbrains.com/plugin/24542-portuguese-language-pack--pacote-de-idioma-portugu-s) - Translate your IDE to Portuguese.
+
+## Resources
+
+### Documentation
+
+- [Getting Started](https://www.jetbrains.com/help/idea/getting-started.html) - Official documentation by JetBrains
