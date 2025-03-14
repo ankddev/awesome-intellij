@@ -111,7 +111,7 @@ Translate IDE to your language.
 
 ### Documentation
 
-- [Getting Started](https://www.jetbrains.com/help/idea/getting-started.html) - Official documentation by JetBrains
+- [Getting Started with IDEA](https://www.jetbrains.com/help/idea/getting-started.html) - Official documentation by JetBrains.
 
 ### Guides
 
