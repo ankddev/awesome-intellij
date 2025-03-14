@@ -69,6 +69,7 @@ IDEs by 3rd-party developers.
 - [Makefile Language](https://plugins.jetbrains.com/plugin/9333-makefile-language) - Support of GNU Make.
 - [.env files](https://plugins.jetbrains.com/plugin/9525--env-files) - Support of .env (dotenv) files.
 - [ESLint](https://plugins.jetbrains.com/plugin/7494-eslint) - ESLint integration.
+- [JS Toolbox](https://plugins.jetbrains.com/plugin/7353-js-toolbox) - Several tools for JavaScript development.
 
 ### Personalisation
 
