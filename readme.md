@@ -99,6 +99,7 @@ IDEs by 3rd-party developers.
 - [Which-Key](https://plugins.jetbrains.com/plugin/15976-which-key) - IdeaVim extension that displays available keybindings in a popup.
 - [IdeaVim-Sneak](https://plugins.jetbrains.com/plugin/15348-ideavim-sneak) - Port of vim-sneak to IdeaVim.
 - [IdeaVim-EasyMotion](https://plugins.jetbrains.com/plugin/13360-ideavim-easymotion) - EasyMotion plugin emulation for IdeaVim.
+- [Better Highlights](https://plugins.jetbrains.com/plugin/12895-better-highlights) - Improve highlighting of comments and keywords.
 
 ### Utilities
 
