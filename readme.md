@@ -86,7 +86,7 @@ IDEs by 3rd-party developers.
 
 ### Personalisation
 
-- [Extra Icons](https://plugins.jetbrains.com/plugin/11058-extra-icons) - Add large amount of new icons to tour IDE.
+- [Extra Icons](https://plugins.jetbrains.com/plugin/11058-extra-icons) - Add large amount of new icons to your IDE.
 
 ### Learning
 
