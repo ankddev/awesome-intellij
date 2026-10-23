@@ -121,6 +121,7 @@ Integreations with various developer tools in your IDE.
 - [Bitbucket Linky](https://plugins.jetbrains.com/plugin/8015-bitbucket-linky) - Provides easy navigation and interaction with Atlassian Bitbucket.
 - [Bitbucket Integration Pro](https://plugins.jetbrains.com/plugin/13538-bitbucket-integration-pro) - The plugin provides seamless integration with Atlassian Bitbucket.
 - [ADB WIFI](https://plugins.jetbrains.com/plugin/7856-adb-wifi) - ADBWIFI Android Studio plugin for debug Android app over Wi-Fi.
+- [Helmfile](https://plugins.jetbrains.com/plugin/35395-helmfile) - YAML and Go template support with environment-aware values completion, navigation, release actions, and native diff viewing.
 
 ### Language packs
 
